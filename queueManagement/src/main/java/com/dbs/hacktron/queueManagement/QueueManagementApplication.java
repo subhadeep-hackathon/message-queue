@@ -1,4 +1,4 @@
-package com.dbs.hacktron.queueManagement.queueManagement;
+package com.dbs.hacktron.queueManagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
